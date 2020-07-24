@@ -17,16 +17,16 @@ pygmentsUseClasses = true
     weight = 1
 
 [[menu.main]]
-    name = "Docs"
-    url = "/docs/"
+    name = "Guide"
+    url = "/guide/"
     weight = 2
 
 [params]
   google_analytics_id=""
-  homepage_button_link = '/docs'
-  homepage_button_text = 'Read The Docs'
-  homepage_intro = 'Whisper is a documentation theme built with Hugo. The design and functionality is intentionally minimal.'
-  homepage_image = '/images/terminal.gif'
+  homepage_button_link = '/guide/'
+  homepage_button_text = 'To the User Guide'
+  homepage_intro = 'WOM is general-purpose rewarding platform based on a voucher exchange system.'
+  #homepage_image = '/images/terminal.gif'
 
   ## You can enable to add anchor links to header elements
   # enable_anchor_link = true
@@ -43,5 +43,5 @@ pygmentsUseClasses = true
     meta_twitter_creator = "@zerostaticio"
 
   [params.logo]
-      mobile = "/images/logo-mobile.svg"
-      standard  = "/images/logo.svg"
+      mobile = "/images/wom-logo.png"
+      standard  = "/images/wom-logo.png"
