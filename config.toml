@@ -25,7 +25,7 @@ pygmentsUseClasses = true
   google_analytics_id=""
   homepage_button_link = '/guide/'
   homepage_button_text = 'To the User Guide'
-  homepage_intro = 'WOM is general-purpose rewarding platform based on a voucher exchange system.'
+  homepage_intro = 'WOM is an open general-purpose rewarding platform based on an exchange system of anonymous vouchers.'
   #homepage_image = '/images/terminal.gif'
 
   ## You can enable to add anchor links to header elements
