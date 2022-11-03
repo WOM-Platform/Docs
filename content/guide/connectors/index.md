@@ -15,5 +15,5 @@ The following WOM&nbsp;connectors are currently available:
   On PyPI, supports Instrument and Point of Sale.
 * [PHP](https://github.com/WOM-Platform/PHP-Connector):  
   Works with PHP Composer and supports Instrument and Point of Sale.
-
-A connector for Dart is currently _work in progress_.
+* [Dart](https://pub.dev/packages/dart_wom_connector):
+  On Pub.dev and compatible with Flutter. Supports Instrument and Point of Sale.
